@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ragini Mishra</h1>
 <h3 align="center">A passionate Frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/female-designer-using-desktop_24877-76634.jpg?w=150"/>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/female-designer-using-desktop_24877-76634.jpg?w=100"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragini-m2020&label=Profile%20views&color=0e75b6&style=flat" alt="ragini-m2020" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itzraginim262" target="blank"><img src="https://img.shields.io/twitter/follow/itzraginim262?logo=twitter&style=for-the-badge" alt="itzraginim262" /></a> </p>
